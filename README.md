@@ -1,2 +1,2 @@
-# parcial teste de software
+# Parcial teste de software
 Avaliação de testes de um software em java
